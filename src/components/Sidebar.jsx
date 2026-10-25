@@ -18,7 +18,7 @@ export default function Sidebar() {
             <span className="text-2xl select-none filter" role="img" aria-label="Task List">
               📋
             </span>
-            <span>ProTASKtinate.</span>
+            <span>ProTASKtinate</span>
           </div>
         </div>
 
