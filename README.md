@@ -1,16 +1,42 @@
-# React + Vite
+# ProTASKtinate
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**ProTASKtinate** is a modern, responsive, and feature-rich task management web application built for academic and professional productivity. It features complete Create, Read, Update, and Delete (CRUD) operations, customizable task groups, state-validated input forms, and dynamic navigation views.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- **Dashboard Overview:** Displays real-time task metrics, completion status counters, and a quick-note capture tool.
+- **Grouped Task Management:** Organize tasks into dedicated categories (e.g., academic, professional, personal) with individual detail views.
+- **Form Validation:** Built-in state-level error checking to ensure mandatory fields (such as task and group titles) are properly populated before submission.
+- **Interactive UI Components:** Responsive sidebar navigation, dynamic modals, and sleek list management.
+- **User Guide & Documentation:** Integrated guide page providing instructions on application navigation and functionality.
+- **Developer Attribution:** Dedicated team view outlining project contributors.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Frontend Framework:** React (Vite)
+- **Styling:** Tailwind CSS
+- **Routing:** React Router DOM
+- **State Management:** React Context API (`TaskContext`)
+
+---
+
+## Project Contributors
+
+- **Orlean Sarmiento** - Developer
+- **John Paul Kenneth Banda** - Developer
+- **Alejandro D. Sayo** - Developer
+- **Tristan Castaneda** - Developer
+
+---
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/orleanjames/ProTASKinate.git](https://github.com/orleanjames/ProTASKinate.git)

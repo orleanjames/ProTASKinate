@@ -15,6 +15,9 @@ export default function Sidebar() {
         {/* Brand Header */}
         <div className="mb-8">
           <div className="font-black text-xl text-emerald-700 tracking-tight flex items-center gap-2">
+            <span className="text-2xl select-none filter" role="img" aria-label="Task List">
+              📋
+            </span>
             <span>ProTASKtinate.</span>
           </div>
         </div>
