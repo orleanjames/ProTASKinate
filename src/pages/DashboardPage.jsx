@@ -44,7 +44,7 @@ export default function DashboardPage() {
   return (
     <div className="space-y-8">
       <div>
-        <h1 className="text-2xl font-black text-slate-800">ProTASKtinate</h1>
+        <h1 className="text-2xl font-black text-slate-800">ProTASKinate</h1>
         <p className="text-sm text-slate-500 mt-1">Doom scroll now, do your task later!</p>
       </div>
 

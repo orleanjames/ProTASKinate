@@ -1,6 +1,6 @@
-# ProTASKtinate
+# ProTASKinate
 
-**ProTASKtinate** is a modern, responsive, and feature-rich task management web application built for academic and professional productivity. It features complete Create, Read, Update, and Delete (CRUD) operations, customizable task groups, state-validated input forms, and dynamic navigation views.
+**ProTASKinate** is a modern, responsive, and feature-rich task management web application built for academic and professional productivity. It features complete Create, Read, Update, and Delete (CRUD) operations, customizable task groups, state-validated input forms, and dynamic navigation views.
 
 ---
 
