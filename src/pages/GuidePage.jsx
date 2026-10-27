@@ -36,6 +36,14 @@ export default function GuidePage() {
             Click the trash icon on any task or group card. A custom confirmation modal will pop up asking for confirmation before permanently deleting the item.
           </p>
         </div>
+
+        <div className="bg-white border border-slate-200 rounded-2xl p-6 shadow-sm space-y-2">
+          <h2 className="text-base font-bold text-slate-800">5. Navigate around</h2>
+          <p className="text-xs text-slate-500 leading-relaxed">
+            Use the sidebar to go to Dashboard, open Groups, read this Guide, or view the Developers.
+          </p>
+        </div>
+
       </div>
     </div>
   );
